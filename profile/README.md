@@ -1,7 +1,7 @@
 Hello there!
 Thanks for stopping by!
 
-My name is [Vadim Starichkov](https://github.com/starichkovva/), and I am software engineer.
+My name is [Vadim Starichkov](https://github.com/starichkov/), and I am software engineer.
 
 Welcome to my personal project - [Template Tasks](https://www.templatetasks.com/).
 
